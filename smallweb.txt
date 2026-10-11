@@ -1,5 +1,6 @@
 http://0x80.pl/feed.xml
 http://200sc.dev/index.xml
+https://open.spotify.com/show/568wsJutNgPiTIMeDu9RyJ
 http://3d.laboratorium.net/feed.xml
 http://3niti.org/rss.xml
 http://a3nm.net/blog/feed.xml
@@ -16136,6 +16137,7 @@ https://iamshadmirza.com/rss.xml
 https://iamshinerai.tumblr.com/rss
 https://iamstelios.com/atom.xml
 https://iamsteve.me/feed.xml
+https://medium.com/feed/@ro3lu
 https://iamtrask.github.io/feed.xml
 https://iamtravelinglight.com/feed/
 https://iamvarun.bearblog.dev/feed/
